@@ -1,0 +1,6 @@
+SctiptOrg- trebate ubaciti u vas MOD
+include - pawno/include
+plugins prebaciti
+scriptfiles takodje
+
+uzivajte :)
